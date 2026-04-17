@@ -1,15 +1,15 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+BOT_TOKEN = "8211055549:AAGmqt1uIAuOCfUDOcFm___vvv1aGK3lRxw"
+OWNER_ID = 1452346749
+TELEGRAM_API = 21152840
+TELEGRAM_HASH = "52ef7dbf8daeeb2c92a214881dd51070"
 # OPTIONAL CONFIG
 TG_PROXY = {}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
-SUDO_USERS = ""
-DATABASE_URL = ""
+SUDO_USERS = "1826754085,7893552306"
+DATABASE_URL = "mongodb+srv://realtechbd3:OMZVjlDOUiR8ODfO@cluster0.cr9m6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DATABASE_NAME = "mltb"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
@@ -26,9 +26,9 @@ NAME_SUBSTITUTE = r""
 FFMPEG_CMDS = {"merge": ["-f concat -safe 0 -i mltb.txt -c copy mltb.mp4 -del"]}
 UPLOAD_PATHS = {}
 # GDrive Tools
-GDRIVE_ID = ""
-IS_TEAM_DRIVE = False
-STOP_DUPLICATE = False
+GDRIVE_ID = "1rbV32FxkvBnsJk4DdJiV2X0tvhnaJGzN"
+IS_TEAM_DRIVE = True
+STOP_DUPLICATE = True
 INDEX_URL = ""
 # Rclone
 RCLONE_PATH = ""
